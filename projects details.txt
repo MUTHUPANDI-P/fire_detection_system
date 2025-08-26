@@ -1,0 +1,9 @@
+✅ 6. SDG 13 – Climate Action
+Project: Forest Fire Detection & Prediction Using Satellite Images
+Impact: Prevents disasters and environmental damage.
+How:
+
+Train CNN for image classification (fire/no fire).
+
+Add early-warning alert system.
+
